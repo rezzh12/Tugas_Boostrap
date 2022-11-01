@@ -1,0 +1,62 @@
+.navbar-brand img{
+    height: 40px;
+    width: 40px; 
+}
+.navbar{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#navbar-custom .container-fluid .collapse ul li{
+    padding-left: 5px;
+}
+.carousel-item img{
+    height:100vh;
+        
+}
+.carousel-caption h4,p{
+ color: aliceblue;
+}
+section#info{
+    padding-top: 50px;
+}
+section#info .container .row .card-custom{
+    background-color: darkgray;
+}
+section#produk{
+    padding-top: 50px;
+}
+section#produk .container .row .card .card-body p{
+    color: black;
+}
+section#produk .container .row .card img{
+    height: 25vh;
+}
+
+section#lokasi, section#tentang{
+    padding-top: 50px;
+}
+section#tentang .container-fluid p{
+    color: black;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+footer{
+    background-color: mediumblue;
+    color: aliceblue;
+}
+section#tentang .container-fluid .row .col-custom img{
+    height: 83%;
+    width: 100%;
+}
+section#produk .container .row .col-md-4 img{
+    height: 40vh;
+}
+section#produk .container .row .col-md-4 p{
+    color: black;
+}
+section#produk .container .row .col-md-8 p{
+    color: black;
+}
+body{
+    background-image: url(Image/107153-abstract-Adobe_Photoshop.jpg);
+}
